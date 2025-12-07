@@ -20,11 +20,11 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/ananjaser1211/android_device_samsung_hero'
+        default: 'https://github.com/TeamWin/android_device_samsung_herolte'
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
-        default: 'herolte'
+        default: 'master'
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
